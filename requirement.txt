@@ -3,3 +3,4 @@ numpy
 streamlit
 matplotlib.pyplot 
 scikit-learn
+joblib
